@@ -7,6 +7,6 @@ int main(){
     int b;
     cin>>b;
     int sum = a+b;;
-    cout<<"sum is"<<+":"<<sum;
+    cout<<"sum is"<<+"::"<<sum;
     return 0;
 }
